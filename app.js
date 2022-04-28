@@ -50,4 +50,4 @@ async function getFormulaOneDrivers() {
   }
 }
 
-getFormulaOneDrivers();
+// getFormulaOneDrivers(); Uncomment this !!!
